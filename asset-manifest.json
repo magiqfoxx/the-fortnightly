@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/.github.io/the-fortnightly/static/js/main.f2a60983.chunk.js",
+    "main.js.map": "/.github.io/the-fortnightly/static/js/main.f2a60983.chunk.js.map",
+    "runtime~main.js": "/.github.io/the-fortnightly/static/js/runtime~main.c874694d.js",
+    "runtime~main.js.map": "/.github.io/the-fortnightly/static/js/runtime~main.c874694d.js.map",
+    "static/js/2.4312bd85.chunk.js": "/.github.io/the-fortnightly/static/js/2.4312bd85.chunk.js",
+    "static/js/2.4312bd85.chunk.js.map": "/.github.io/the-fortnightly/static/js/2.4312bd85.chunk.js.map",
+    "index.html": "/.github.io/the-fortnightly/index.html",
+    "precache-manifest.6dfd67411f7b4b1b055bcf642f20e638.js": "/.github.io/the-fortnightly/precache-manifest.6dfd67411f7b4b1b055bcf642f20e638.js",
+    "service-worker.js": "/.github.io/the-fortnightly/service-worker.js"
+  }
+}
