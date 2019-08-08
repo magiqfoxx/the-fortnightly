@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/the-fortnightly/static/js/main.ecbaba06.chunk.js",
-    "main.js.map": "/the-fortnightly/static/js/main.ecbaba06.chunk.js.map",
+    "main.js": "/the-fortnightly/static/js/main.2c428324.chunk.js",
+    "main.js.map": "/the-fortnightly/static/js/main.2c428324.chunk.js.map",
     "runtime~main.js": "/the-fortnightly/static/js/runtime~main.c7549ae8.js",
     "runtime~main.js.map": "/the-fortnightly/static/js/runtime~main.c7549ae8.js.map",
     "static/js/2.73f6eb99.chunk.js": "/the-fortnightly/static/js/2.73f6eb99.chunk.js",
     "static/js/2.73f6eb99.chunk.js.map": "/the-fortnightly/static/js/2.73f6eb99.chunk.js.map",
     "index.html": "/the-fortnightly/index.html",
-    "precache-manifest.6758a48bf9b219d732307a24e4d5f192.js": "/the-fortnightly/precache-manifest.6758a48bf9b219d732307a24e4d5f192.js",
+    "precache-manifest.1cd2079c5c3e8e5bc15c86adcd405d2c.js": "/the-fortnightly/precache-manifest.1cd2079c5c3e8e5bc15c86adcd405d2c.js",
     "service-worker.js": "/the-fortnightly/service-worker.js"
   }
 }
